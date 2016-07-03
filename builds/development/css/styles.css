@@ -1,0 +1,12 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+}
+.btn {
+  background-color: #2255dd;
+  border: none;
+  color: white;
+  width: 56px;
+  height: 32px;
+  font-size: 16px;
+}
